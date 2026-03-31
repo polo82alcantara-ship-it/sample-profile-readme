@@ -11,4 +11,5 @@ I go to UTSA, I'm enrolled in Unlocking Cybersecurity, I'm majoring in Ai Cybers
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-"Love Life and Live Life!"
+
+"Love Life and Live Life Pug Life!"
